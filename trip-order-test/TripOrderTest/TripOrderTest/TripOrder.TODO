@@ -6,3 +6,7 @@
 3. Pass all needed properties in models to internal
 
 4. private List<BoardingCardMdl> _unorderedCards move to model
+
+5. need to implement error cases like:
+	a. two boarding cards with any or both same legs
+	b. more than 2 boarding cards has no corresponding legs (implemented/ need to test)

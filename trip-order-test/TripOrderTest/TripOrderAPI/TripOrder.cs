@@ -47,6 +47,7 @@ namespace org.nikshalman.example.TripOrderAPI
             moveOthers();
 
             //3. check if all cards was moved to ordered list
+            //because if not: this means some boarding card has no leg corresponding with any other card
             if (_unorderedCards.Count == 0)
                 return true;
 
