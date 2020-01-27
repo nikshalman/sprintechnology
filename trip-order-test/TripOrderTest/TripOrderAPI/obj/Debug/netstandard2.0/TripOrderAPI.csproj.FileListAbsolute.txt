@@ -1,0 +1,8 @@
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\bin\Debug\netstandard2.0\TripOrderAPI.deps.json
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\bin\Debug\netstandard2.0\TripOrderAPI.dll
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\bin\Debug\netstandard2.0\TripOrderAPI.pdb
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\obj\Debug\netstandard2.0\TripOrderAPI.csprojAssemblyReference.cache
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\obj\Debug\netstandard2.0\TripOrderAPI.AssemblyInfoInputs.cache
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\obj\Debug\netstandard2.0\TripOrderAPI.AssemblyInfo.cs
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\obj\Debug\netstandard2.0\TripOrderAPI.dll
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderAPI\obj\Debug\netstandard2.0\TripOrderAPI.pdb

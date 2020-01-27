@@ -1,0 +1,14 @@
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.exe
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.deps.json
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.runtimeconfig.json
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.runtimeconfig.dev.json
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.dll
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderTest.pdb
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.csprojAssemblyReference.cache
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.AssemblyInfoInputs.cache
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.AssemblyInfo.cs
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.dll
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.pdb
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderAPI.dll
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\bin\Debug\netcoreapp3.1\TripOrderAPI.pdb
+C:\nik\my\cherche_travail\sprintechnology\trip-order-test\TripOrderTest\TripOrderTest\obj\Debug\netcoreapp3.1\TripOrderTest.csproj.CopyComplete

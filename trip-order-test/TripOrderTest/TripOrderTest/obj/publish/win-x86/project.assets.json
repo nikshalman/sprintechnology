@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TripOrderAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TripOrderAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TripOrderAPI.dll": {}
+        }
+      }
+    },
+    ".NETCoreApp,Version=v3.1/win-x86": {
+      "TripOrderAPI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TripOrderAPI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TripOrderAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TripOrderAPI/1.0.0": {
+      "type": "project",
+      "path": "../TripOrderAPI/TripOrderAPI.csproj",
+      "msbuildProject": "../TripOrderAPI/TripOrderAPI.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TripOrderAPI >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\nik\\my\\cherche_travail\\sprintechnology\\trip-order-test\\TripOrderTest\\TripOrderTest\\TripOrderTest.csproj",
+      "projectName": "TripOrderTest",
+      "projectPath": "C:\\nik\\my\\cherche_travail\\sprintechnology\\trip-order-test\\TripOrderTest\\TripOrderTest\\TripOrderTest.csproj",
+      "packagesPath": "C:\\Users\\nik\\.nuget\\packages\\",
+      "outputPath": "C:\\nik\\my\\cherche_travail\\sprintechnology\\trip-order-test\\TripOrderTest\\TripOrderTest\\obj\\publish\\win-x86\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\nik\\my\\cherche_travail\\sprintechnology\\trip-order-test\\TripOrderTest\\TripOrderAPI\\TripOrderAPI.csproj": {
+              "projectPath": "C:\\nik\\my\\cherche_travail\\sprintechnology\\trip-order-test\\TripOrderTest\\TripOrderAPI\\TripOrderAPI.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[3.1.1, 3.1.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
+            "version": "[3.1.1, 3.1.1]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+            "version": "[3.1.1, 3.1.1]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

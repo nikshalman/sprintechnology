@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TripOrderTest/1.0.0": {
+        "dependencies": {
+          "TripOrderAPI": "1.0.0"
+        },
+        "runtime": {
+          "TripOrderTest.dll": {}
+        }
+      },
+      "TripOrderAPI/1.0.0": {
+        "runtime": {
+          "TripOrderAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TripOrderTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TripOrderAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
