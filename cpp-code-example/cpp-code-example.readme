@@ -1,0 +1,40 @@
+
+This code example shows 2 techniques:
+
+-------------------------------------------------------------------------------------
+1. MVC implementation:
+-------------------------------------------------------------------------------------
+Normally developers faces programming problems like:
+1. circular references between classes,
+2. need of proliferation of shared pointers, 
+3. code change ripple effect (broken SOLID principles)
+4. class inheritance diamond problems etc.
+
+All this can be solved by identifying all classes as MODEL, CONTROLLER and FACADE(VEIW)
+
+
+Here is my example of MFC implementation for C++ v.17:
+
+a. class LoggerMdl has friend LoggerCtr (this is a model class, it has only properties)
+b. class LoggerCtr has reference LoggerMdl& _mdl (this is a controller class it has mostly methods)
+c. class Logger has pointer to LoggerMdl and exposes methods from LoggerCtr (this is a facade class, it can be used as singleton or global instance or exported from .dll etc.)
+
+d. Here we can see that shared pointes are not used at all, they will be used only when multithreading need to be implemented.
+
+
+Conclusion:
+This way we can build applications of any complexity out of these bricks (considering any MFC junction as a brick)
+and have no hassles in maintenance of the project.
+
+
+-------------------------------------------------------------------------------------
+2. Common headers use:
+-------------------------------------------------------------------------------------
+Normally in projects there is a mess with header files (header hell).
+
+Here I solve this problem introdusing:
+a. *.HDR.hpp file that is placed in all class headers (NickyGark.Common.HDR.hpp)
+b. *.SRC.hpp file that is pplaced in all class implementation .cpp files (NickyGark.Common.SRC.hpp)
+
+Conclusion:
+This results in clear project references maintenance.
