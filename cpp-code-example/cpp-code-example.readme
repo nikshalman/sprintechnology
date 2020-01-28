@@ -2,7 +2,7 @@
 This code example shows 2 techniques:
 
 -------------------------------------------------------------------------------------
-1. MVC implementation:
+1. MFC(MVC) implementation:
 -------------------------------------------------------------------------------------
 Normally developers faces programming problems like:
 1. circular references between classes,
